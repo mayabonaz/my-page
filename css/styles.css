@@ -31,22 +31,42 @@ a {
 .top-container {
   position: relative;
   padding-top: 200px;
+  background-color: #eaf6f6;
+}
+
+.profile {
+  padding-bottom: 5%;
 }
 
 .round-image {
   border-radius: 50%;
-  margin-top: 20px;
+  margin-top: 5%;
   width: 8.5em;
   height: 8em;
 }
 
+.intro-text {
+  color: #40514e;
+}
+
+.skills {
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+hr {
+  border-top: 3px dotted #40514e;
+}
+
 
 .middle-container {
-
+  background-color: #fff;
+  padding-bottom: 10%;
 }
 
 .bottom-container {
-
+  background-color: #66bfbf;
+  position: relative;
 }
 
 .profile p {
@@ -80,10 +100,6 @@ a {
   margin-top: 5%;
 }
 
-.dev {
-  text-decoration: underline;
-}
-
 .top-cloud {
   position: absolute;
   top: 150px;
@@ -96,6 +112,44 @@ a {
   bottom: 300px;
 }
 
+.contact-me {
+  position: relative;
+}
+
+.btn {
+  top: 150%;
+  position: absolute;
+  left: 46%;
+  text-decoration: none;
+  background-color: #11999E;
+  font-weight: 500;
+  border: solid #11999E 1px;
+  display: inline-block;
+  box-shadow: 1px 1px 10px 0 #5B6363;
+  border-radius: 5px;
+  padding: 10px;
+  color: #FFFFFF;
+  text-align: center;
+}
+
+.footer-link {
+  display: inline-block;
+  margin-top: 3%;
+  margin-left: 2%;
+  margin-right: 2%;
+  color: #fff;
+  text-decoration: none;
+}
+
+.copyright-text {
+  color: #EAF6F6;
+  margin-top: 3%;
+}
+
 .small {
   font-size: 10px;
+  position: relative;
+  bottom: 40px;
+  display: flex;
+  padding-left: 20px;
 }
