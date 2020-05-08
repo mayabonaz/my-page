@@ -56,12 +56,13 @@ a {
 
 hr {
   border-top: 3px dotted #40514e;
+  margin: 0;
 }
 
 
 .middle-container {
   background-color: #fff;
-  padding-bottom: 10%;
+  padding-bottom: 15%;
 }
 
 .bottom-container {
@@ -128,6 +129,7 @@ hr {
   box-shadow: 1px 1px 10px 0 #5B6363;
   border-radius: 5px;
   padding: 10px;
+  margin-bottom: 5%;
   color: #FFFFFF;
   text-align: center;
 }
