@@ -30,7 +30,7 @@ a {
 
 .top-container {
   position: relative;
-  padding-top: 200px;
+  padding-top: 10%;
   background-color: #eaf6f6;
 }
 
@@ -102,13 +102,13 @@ hr {
 
 .top-cloud {
   position: absolute;
-  top: 150px;
-  right: 400px;
+  top: 12%;
+  right: 24%;
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 400px;
+  left: 24%;
   bottom: 300px;
 }
 
@@ -134,7 +134,7 @@ hr {
 
 .footer-link {
   display: inline-block;
-  margin-top: 3%;
+  margin-top: 2%;
   margin-left: 2%;
   margin-right: 2%;
   color: #fff;
